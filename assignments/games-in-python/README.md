@@ -1,16 +1,16 @@
 
-# 📘 Assignment: Games in Python - Hangman
+# 📘 Assignment: Games in Python
 
 ## 🎯 Objective
 
-Build a classic Hangman game in Python to practice string manipulation, loops, conditionals, and random selection. By completing this assignment, you'll strengthen your problem-solving skills and learn how to create interactive console games.
+Build a classic Hangman game in Python. Practice string manipulation, loops, conditionals, and random selection while creating an interactive console game.
 
 ## 📝 Tasks
 
-### 🛠️ Task 1: Hangman Game Core
+### 🛠️ Hangman Game Core
 
 #### Description
-Create a Hangman game where players guess letters to reveal a hidden word. The game should run in the console and provide clear feedback to the player after each guess.
+Create a Hangman game where players guess letters to reveal a hidden word. The game should run in the console and provide clear feedback after each guess.
 
 #### Requirements
 Completed program should:
@@ -22,19 +22,15 @@ Completed program should:
 - End the game when the word is guessed or attempts are exhausted
 - Show a win or lose message at the end
 
-### 🛠️ Task 2: Bonus Features (Optional)
+### 🛠️ Bonus Features
 
 #### Description
 Add one or more enhancements to make your game more fun or challenging.
 
 #### Requirements
-Bonus features could include:
+Completed program should:
 
-- Allowing the player to choose difficulty (number of attempts)
-- Displaying previously guessed letters
-- Adding a word list loaded from a file
-- ASCII art for the hangman
-
----
-
-**Encouragement:** Take your time, test your code, and have fun! If you get stuck, review your notes or ask for help. You can do it!
+- Allow the player to choose difficulty (number of attempts)
+- Display previously guessed letters
+- Add a word list loaded from a file
+- Show ASCII art for the hangman
